@@ -1,9 +1,10 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
-brand: Your Name
-headline: Inventor, Engineer and Futurist
+title: 성장하는 과정
+subtitle: 혠로그 since 2022.12  
+email: leehin5874@naver.com
+brand: 혜니의 공부 발자취
+headline: 하루하루 담아보는 기록
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
